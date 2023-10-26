@@ -1,0 +1,14 @@
+{
+  "ratedShows": [
+    {
+      "showName": "Dungeons and Daddies",
+      "rating": 5,
+      "ratedAt": "2022-10-23T22:09:23.736441Z"
+    },
+    {
+      "showName": "Kill James Bond!",
+      "rating": 5,
+      "ratedAt": "2022-10-17T07:29:15.115088Z"
+    }
+  ]
+}
